@@ -6,6 +6,8 @@ There's __Team Multi-Tenancy__, too, so every user sees only records by their te
 
 ![Laravel Team Registration](https://laraveldaily.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-19-at-5.20.48-PM-1.png)
 
+Live-Coding video version of this project: [Click Here](https://www.youtube.com/watch?v=AXGEe9tqJj0)
+
 ---
 
 ### How to use
