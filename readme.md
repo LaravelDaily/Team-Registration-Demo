@@ -1,8 +1,8 @@
 ## Laravel Team Registration Demo
 
-Simple demo of a project where new user registers his team and then can manage their users.
+Simple demo of a project where new users register their team and then can manage their users.
 
-There's Team Multi-Tenancy, too, so every user sees only records by their team
+There's __Team Multi-Tenancy__, too, so every user sees only records by their team.
 
 ![Laravel Team Registration](https://laraveldaily.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-19-at-5.20.48-PM-1.png)
 
